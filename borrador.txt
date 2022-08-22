@@ -1,0 +1,36 @@
+
+// let bebida = prompt(
+//   "Ingrese Bebida que quiere ordenar: Coca-Cola - Cerveza - Agua - Vino"
+// );
+
+// while (
+//   bebida === "Coca-Cola" ||
+//   bebida === "Cerveza" ||
+//   bebida === "Agua" ||
+//   bebida === "Vino"
+// ) {
+//     let edad = parseInt(prompt("Ingrese su edad"));
+
+//     if (edad<18){
+
+//     }
+// }
+
+// if (
+//   bebida != "Coca-Cola" ||
+//   bebida != "Cerveza" ||
+//   bebida != "Agua" ||
+//   bebida != "Vino"
+// ) {
+//   alert("No tenemos la bebida indicada");
+// } else {
+//   while (edad < 18) {
+//     if (bebida === "vino" || bebida === "cerveza") {
+//       alert("No puedes realizar el pedido, eres menor de edad");
+//     } else {
+//       alert("Disfrute su " + bebida);
+//     }
+//   }
+// }
+
+// numero = parseInt(prompt('Ingrese solo numeros pares'))
