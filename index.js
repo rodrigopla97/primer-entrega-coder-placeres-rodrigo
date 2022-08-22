@@ -17,3 +17,4 @@ while (numero != 0) {
   console.log("Numero ingresado: " + numero);
 }
 console.log("La suma de los pares es: " + suma);
+alert("La suma de los pares es: " + suma);
